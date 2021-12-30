@@ -53,3 +53,29 @@ Click on the **Click Here** to see the **File Share** Demo on YouTube.
 ## 🚀 Code Snippet [Frontend]
 ![image](https://user-images.githubusercontent.com/62868878/147675965-de72a18b-a230-4e34-9721-da6a2bd66bdf.png)
 
+# 🚀 FILE SHARE UI
+
+## 🚀 Home Screen
+![image](https://user-images.githubusercontent.com/62868878/147728151-d84fafb1-9006-4ac6-bad9-d9073bb30328.png)
+## 🚀 Drag Files For Upload
+![image](https://user-images.githubusercontent.com/62868878/147728320-42e7965f-4186-4530-b1dd-f1b20d5c08db.png)
+## 🚀 Uploading Progress Bar
+![image](https://user-images.githubusercontent.com/62868878/147728480-3e0d8bb8-750c-407c-b423-2570fde0fc19.png)
+## 🚀 Download link copy to clipboard
+![Screenshot (167)](https://user-images.githubusercontent.com/62868878/147728657-b4f07d4a-2b21-4403-93bc-0856beda5935.png)
+
+## 🚀 File Send via Email Enter Your email &  Receiver's email
+![image](https://user-images.githubusercontent.com/62868878/147729529-da6724b4-9091-4a91-bce1-09eaad29d62c.png)
+## 🚀 Email Sent
+![Screenshot (171)](https://user-images.githubusercontent.com/62868878/147729791-9371eb90-b52b-4359-847b-f7509e1271d9.png)
+
+## 🚀 Email With Download File Link
+![image](https://user-images.githubusercontent.com/62868878/147729906-5a784595-4fa1-4802-ab11-30829b1a258e.png)
+
+## 🚀 File Download Screen
+![image](https://user-images.githubusercontent.com/62868878/147730120-08b6fc06-fc1a-430d-b008-62cbc2bcc8c9.png)
+## 🚀 File Downloading...
+![image](https://user-images.githubusercontent.com/62868878/147730215-cefdf66e-478a-4f4b-a146-e8f90ce84526.png)
+
+
+
