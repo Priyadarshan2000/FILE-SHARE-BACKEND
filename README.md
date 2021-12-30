@@ -79,3 +79,7 @@ Click on the **Click Here** to see the **File Share** Demo on YouTube.
 
 ## 🚀 Demo of The FILE SHARE Application 
 ![20211230_130222](https://user-images.githubusercontent.com/62868878/147731062-27db5f39-2b5e-410f-bca6-ba4ddf019ae1.gif)
+
+
+# 🚀 FILE SHARE FRONTEND 👇  https://github.com/Priyadarshan2000/FILE-SHARE-FRONTEND
+# 🚀 FILE SHARE BACKEND  👇 https://github.com/Priyadarshan2000/FILE-SHARE-BACKEND
